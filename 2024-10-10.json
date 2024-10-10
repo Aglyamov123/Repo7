@@ -1,0 +1,26 @@
+{
+  "name": "Helena Little",
+  "age": 29,
+  "address": {
+    "street": "Burbu Place",
+    "city": "Povipoik",
+    "state": "TN",
+    "zip": "25432"
+  },
+  "contact": {
+    "phone": "(702) 672-3367",
+    "servicePhone": "800272738"
+  },
+  "birthday": "1998-04-12T05:19:50.172Z",
+  "ip": "50.224.22.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Mo fiz mesen gilwa usihob zeszifhe leckuhhi pasbu netacoc wefile lip je eswoshe picmohri pef. Cumicvik goh av sazduwi junigop aj fop deabwum kefmekvuf ku je mah zavisolul ziuhru bidiz cejo ra bi. Lakhid cufuh kavgarwez kem hekipo zupuz luvnewu po wekej ijiitrig pi miz opi lesjop wogahicu. Denkewpoj wamamnib uco co zor nonpe ifi fij popju si vujkegpuc fowi wofusefe ifalasi se puk.",
+    "bio": "Ope dosol ritboez kic wi roizi pufku vor de kigibamo du lor eb labogu mah cudfu tihnot. Bi mi kahos zedus vibo bebive gizjacsup hiwvulam timefe ticvaeka wecata ilera kut wa wewuk ubo rugvunju wuhecepoj. Okbalalu aw maow wedzi lodamin goribpe iwhonik zena diefaru hejoz nuz gucno cuema uje hinnukla."
+  },
+  "apiKey": "212beb09627603810bf61063a958fcc4f4bbf8144e55389e75249afac0189eab",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
