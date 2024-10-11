@@ -1,0 +1,26 @@
+{
+  "name": "Luke Ross",
+  "age": 58,
+  "address": {
+    "street": "Dari Plaza",
+    "city": "Femilat",
+    "state": "WA",
+    "zip": "11881"
+  },
+  "contact": {
+    "phone": "(257) 202-1050",
+    "servicePhone": "800182631"
+  },
+  "birthday": "1988-09-29T02:35:29.689Z",
+  "ip": "35.32.10.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubojum mu cawova vujan suroshe ob gicire ja oneezu di ilubirav dovedse tofkos. Avunmef uhhew bafsor zincauzi viat racsomvu rudnusjo deuc ekeometo azose toacpep saz. Nuzejo wow pudlu ihaha sa gal gockir suz pic ewi nasuw na owir cedef as weju.",
+    "bio": "Uboilfij serohim mu eca beplukpas muwbavob vagalo kogas fantombif diwub olmed fuh imveh nupito. Sodaj ulese haflic tiinegi jupbaz jitilos gikafme vapvic orecijkeb anvorka bi doka sagwibwa. Ehezirso ecejaad jizives cowkoka gu sizvuw gannagho ho nel nulrib umicolgac ihsekfun zinjip wesmijor vegoc bazepic mec jivvac."
+  },
+  "apiKey": "a6f08a19afa7dd045aaee98d1f36e817ca20d7e0d2973a5d1d2bf0a01b629e63",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
