@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Lambert",
+  "age": 42,
+  "address": {
+    "street": "Reza Avenue",
+    "city": "Futujuru",
+    "state": "RI",
+    "zip": "25806"
+  },
+  "contact": {
+    "phone": "(703) 966-3507",
+    "servicePhone": "800523479"
+  },
+  "birthday": "1964-01-27T08:44:49.372Z",
+  "ip": "59.167.61.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruwalgo luh gojdic fu zeif vetfek cu opuodoad acho emavas eli wasoraf me. Pusiz reenimav somdab mopobju li giclaniw den ehiwael bateza ruor racbu kooj men vuziceka epo juthomip ce. Azcuc veubuvu efa kero ramwiipu pomuwzuw duaf udezap bim ho pemouj darajsi.",
+    "bio": "Jallek get pu liojki nup deh beti ivoleg beccikek tog apojefa ve ebbav ibefu vis mujlov acaroh. Nawna nalde mafoug gu sulsud mi gip olu nubsomif dumugdub lacna ilizav agce rewkar. We em to vanbenel pidu hovgav zijav sepofa ripadju lafa vo afieno guv cacrise zos bodfor je towtas. Zoh jaimulo venar ofehe ha naw zisoh co navga pekiddum uw ec veke fiosuted fakutcod. Hadolge rumrogo ho ag vo famfacsi gapohla efzuere jusuvur toicuwuv havi ton hampugi sakon. Harno lagfe nafe luazi jo got satweit ujowascul turze evo fipa wanej uvetagweb fovab ifza. Iksuwnic hesdonli mek mo tip laled hor upgigeh tus bos pu moc sizbol cu ino awafokcut ve bi."
+  },
+  "apiKey": "9413f90d03bc1727f72fef8f8dbdb12dfc23f1fe5ae2676a2f788125154e0f0d",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
