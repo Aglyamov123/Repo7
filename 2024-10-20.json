@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Hale",
+  "age": 20,
+  "address": {
+    "street": "Tocfi Extension",
+    "city": "Ebepowjof",
+    "state": "OH",
+    "zip": "56580"
+  },
+  "contact": {
+    "phone": "(916) 611-3826",
+    "servicePhone": "800237361"
+  },
+  "birthday": "1961-02-25T05:03:49.002Z",
+  "ip": "150.30.36.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Je dupeli fodeftu viwoc cujwuv wasagku me nipanjud egbiwow ka ekfat nuik oza edokupsa ma afcalot mi edefe. Borfon dekwesvej ug ozkoz locupisu otubinec icegi nujbusdel vefvoago vig el fuzzo sefanu tim hu. Avjibup hal laathe ewkam pa kikaf cuzarum dawe bonipa ru ucotoji hiuwle vah veghenwu soj rujtuoc ho apoive.",
+    "bio": "Dukvona de ub pal eg vesilur zizumga pauf gaptonep geftef cofezub objivar. Kagdol uwduuvu ti umukadel dorol imjetci moj ritez hogud law tepju pidadili. Ja zu se wa ojezu tedera ha comooj alu gitaw muf ra bupu jacin cupapjeg robilo riz."
+  },
+  "apiKey": "9820cbb016a6a5d4cc9fa2db2758423bb6c2204c46de1748b071e895b58d7f6f",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
