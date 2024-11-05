@@ -1,0 +1,26 @@
+{
+  "name": "Juan Marsh",
+  "age": 41,
+  "address": {
+    "street": "Foolo Extension",
+    "city": "Etiriaf",
+    "state": "DC",
+    "zip": "11005"
+  },
+  "contact": {
+    "phone": "(745) 812-9621",
+    "servicePhone": "800826856"
+  },
+  "birthday": "2003-12-08T12:16:24.131Z",
+  "ip": "161.92.44.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Some cedu vot mu janili ek eta ceof ohe wivwu az rurcug. Si ja wu sahi hi cighu zub om roibuof hom mowse gazlit. Redki an diwkiz jidig madpib megi mo cokru ne neduuf usoefa latof wac lesav fawu ujalutof ucozam nicisunu.",
+    "bio": "Atpen lomjik we estimja jaozi po foh zuf mih su hibu pahjubru nir. Va jukazina sozrajzi fod kael gewdaat ewo kot mojza ruec kuwhoesa ena gacifitu idje keddi sa omiko. Fehbaje rutovu ipba ti gotil itpip zokpen refiz bucig hebmauf dumzazuc rejagas afomeibi afkirif agjube kof cupnolwe. Lor bapic pa fownivcag sagivapu nevorel basafi elpapo anisagke idu wubkuep col ru upeutoce apimo puh dis butipfat. Nogvoz on bo soroti geped deb ivisipuri puzernar ok cokfe igmasam uha pertinti ufme pelsured. Eniga fe liso civavsuc buh ka aj tijib doofiz su pencibu apami."
+  },
+  "apiKey": "1331b91ec9f6bffebd3d2b646998cc5bcc50bc99408da93302e0716186c3a9d1",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
