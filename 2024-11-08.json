@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Romero",
+  "age": 39,
+  "address": {
+    "street": "Dodtec Street",
+    "city": "Fuzkovefa",
+    "state": "IN",
+    "zip": "06350"
+  },
+  "contact": {
+    "phone": "(425) 582-6698",
+    "servicePhone": "800836514"
+  },
+  "birthday": "2003-07-13T03:44:57.382Z",
+  "ip": "230.169.211.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Kezja ovorano tur tabriot la etihi ac tevzerbap aguvew zi zok tiggi gano rudisu koslub. Buthar ge paktehut liizu noncur kebik velos levzupej ji pekinu adwa rem. Cef nuswenvar je ud kazzespa wac mezpi bunacrum ce cuvutig ebiebucez talamiba teasutin lo buin tazewta azurukho. Iva adiulafor iv fuinizi kozzovub tencigfa fop uho himre pug uwilak ja mopol ruljivzo pip lasissod tesidbab. Luf liepa zu uhcuuka jisfov beliut waztom te piw hatla bub hi wu.",
+    "bio": "Iz hocgut id zo hedur jo uw dewoduzi cuz cerinari degmuc lefu sil apeve ur octuz. Ki ogadoz hi obibi ezrigun fo riv zewka had mujhuh na efa vopewik ema tezob. Zogiwabav ulakum ewe goc lo rinki ko acet terjog zuboho og co voh lujje jajib pe vajpe zeg. Mek novocfo zokouw imegonat cirovac tosifaf ece pav emu nare abibicpag fir ogu ka agbu. Marremovo go jofij iwuze poame zichipuw co ceaci zetud la asuvu ure ika ziamakot worine beid ga."
+  },
+  "apiKey": "8fd7ddfcdf46a59e82a474e9b9c15a80611b50631b4b7350fdb9bd8baeb73720",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
