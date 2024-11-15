@@ -1,0 +1,26 @@
+{
+  "name": "Jon Marshall",
+  "age": 21,
+  "address": {
+    "street": "Loliva Path",
+    "city": "Kavmosafi",
+    "state": "VA",
+    "zip": "77831"
+  },
+  "contact": {
+    "phone": "(305) 981-2207",
+    "servicePhone": "800662892"
+  },
+  "birthday": "1968-01-12T06:56:08.678Z",
+  "ip": "159.197.213.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Opuganari saz uvelatuj daza le muter da ciij ivi edbew sune pasefe fojbotuk. Pahwoshuv gafgus ifbo me lobih pafar el zurogduf vinnof jogut tepuleago fuji hi zab luvaldo woac. Ivebzi cudacap oftispo faoca zov somic bu rook lasef coj metetmob ic puwmu omu iwe gup bas. Voorovi vunfodho wemutog peovej tov felebaba zo aru mok iweno efuhtuf zeko aco tafiz terpuko jekukoh ig. Tef ruusuzij tewsozu rujurur rawa me gez rignezegu zilit ed datij kak gizloz pa.",
+    "bio": "Jungak rathaala ar mafen izojek gej dojow co rourdi zatuf da budet toha. Gufmaeza tivuw voec lo dihoczi zawowo nejid apjepet puwko jalpopda fac puzpomu ohsir. Helsu du moho igcewke giso pu aczohel nojpelhu op jogmuzbum jofom inicordil ik dakaol. Okiopuoc kopoka gawen martuk pa bel hirvudgaj oka tubto sic uvhefuf mirla uki uhuda kovide."
+  },
+  "apiKey": "e55474ede33a3a39cb91d6f72bef920e399d5160fa6af56aa85469441ea7c5f6",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
