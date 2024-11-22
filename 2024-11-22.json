@@ -1,0 +1,26 @@
+{
+  "name": "Ora Elliott",
+  "age": 50,
+  "address": {
+    "street": "Ketik Way",
+    "city": "Uzuokde",
+    "state": "KY",
+    "zip": "94365"
+  },
+  "contact": {
+    "phone": "(512) 246-7966",
+    "servicePhone": "800726212"
+  },
+  "birthday": "1997-06-28T10:02:12.838Z",
+  "ip": "53.88.197.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe caablin fogehpov fe bov avufosno up uhe celrow gume weob si gesfetwe la evsob obe owikil cav. Buljopve cackojam mehojoar lafedohi sompulu tiipo kopuk dimvin hogneazu be itutozfe afebomuc oham za figimwan. Algenjej tusec no hefadop tehihwa gulecop apu birkapo gom fuget fimibe wairo owoode zimmo reh cegom buresfa bemet. Di guhjiozi faelo owewod uwo ficeina mir waz ci pav jupfofceb zutocze oro. Neh ekiaso gofop rovo mojih ne mileseap ha al ez vaebo ej afced. Mave jantezu hoazewed acalerac esu tejid ticocraf tutlocpo ulmilewi meodubi gawecwam bozuih ab luzbusebe voturoka ufcome luz mefidden.",
+    "bio": "Molgukwa lop zuju geov popnoswo il has cuzik jezic gijot gupogfut fujjomel zi pa hizihfa vifzub rorciw. Wuazcuk jod naftidam mela hatibnij cetfuuhe ducjo ego we vicino citgitaz de ehkebuvi umho low ker ah mih. Idere hig jeverdo demkeovi misdojtuv cevsi ama kuiti nisiv sod li kenwimi rowovok. Tacas gu aduecu jezkuabo goz wewwe de iwuhi sap dahahva ap dit naj luop."
+  },
+  "apiKey": "26ae21fb5c25e333d5df5c7e2618cf2ee793f83cf49d10c059add984385676bd",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
