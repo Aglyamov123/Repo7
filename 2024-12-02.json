@@ -1,0 +1,26 @@
+{
+  "name": "Nina Berry",
+  "age": 20,
+  "address": {
+    "street": "Cersud Key",
+    "city": "Hepuhezu",
+    "state": "CO",
+    "zip": "92898"
+  },
+  "contact": {
+    "phone": "(312) 272-3964",
+    "servicePhone": "800866584"
+  },
+  "birthday": "2000-12-16T04:55:08.320Z",
+  "ip": "51.125.136.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Zuzuv ve fevzifsa icuguf ejlub gidi jedgojsu hus pewo te mun vumak. Pildaf nahcub panbokeh meag gabe zoahu huih baozu beborup ubag obaku hoz nel. Dovi korutur oje bornut jan wu dapham olgepo udfa pewod vodaz baduskec. Ih tizhommij jebem doaz bijwi lab famikos te ice rakazi puv im jan fe.",
+    "bio": "Zilo ka nece ozeil nesdiz zib ecvan rin megefoh sacdik das gebitaj. Osiegtam me zek lueco nukusuki uhoaweho reabca dogehbi alewicvom fuhiri vuhmolhe renogavi wunpeuj dapere. Vutiliana wug veznuj je wuan van fovekke deortol ehbe jezfoigu mannoib tubewa ezwub sehvufdaz fiso bukijo. Famameuh viom vubifi afdutot gutigi ub gib dez biga pakpiz cowowfu ji voliek."
+  },
+  "apiKey": "28d407cb0463e53c8d953b1526427a3e485c04c1f73ece8c0a4486913ab75881",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
