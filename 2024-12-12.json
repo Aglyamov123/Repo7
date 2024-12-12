@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Austin",
+  "age": 50,
+  "address": {
+    "street": "Dona Manor",
+    "city": "Kozokeme",
+    "state": "NV",
+    "zip": "34614"
+  },
+  "contact": {
+    "phone": "(848) 316-2726",
+    "servicePhone": "800854337"
+  },
+  "birthday": "1973-08-05T11:00:45.857Z",
+  "ip": "131.81.85.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Sotfufo hecud nogso fidwelu huwdias bawugis nodam fawosgah zih logozi ucuwilbem gami he gera migjuh. Hailzaz wo jammuf iw pu fa nemso woz wajfadi fan diiw wufzimfik idaika fakol borizha. Up hiru ho nezzid susgola lise kip tucas badol ace car caeva waf retus he giwuhih saz.",
+    "bio": "Ewiek fizoz to eho ho ehusefle tep dak ge re de uve uhti. Lapes vu zobaju hanporal wulgunod luatu vojewo copzubka odsohazu heov geufwi vahtem bofda ten pa ri assukcus. Ekuigegu nokpo jo ler ge vud dafromcu caju ajga as ijaon how oduodvun. Co sehbed ca cokideve dibuve kedidu wuenod cep bu ikosouz pembusip vinutezal ronopus pubodade toc tival litabe."
+  },
+  "apiKey": "23dd1088873429060565b314650bae6a3ba897b331abb3105f636bf0c4f730ac",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
