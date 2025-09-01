@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Jones",
+    "age": 42,
+    "address": {
+        "street": "Natalie Canyon",
+        "city": "West Amy",
+        "state": "Kentucky",
+        "zip": "34653"
+    },
+    "contact": {
+        "phone": "296-873-3171x438",
+        "servicePhone": "800799321"
+    },
+    "birthday": "1983-31-07",
+    "ip": "198.80.135.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Skin sell some note assume. Bit put table local character.\nEvidence difficult provide where. Table past sea section car. Add say anyone size hundred white.",
+        "bio": "Likely morning same happen prevent. Early career new. Raise although peace. Often red both argue note condition."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
