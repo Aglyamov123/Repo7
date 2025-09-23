@@ -1,0 +1,25 @@
+{
+    "name": "Gary Aguirre",
+    "age": 77,
+    "address": {
+        "street": "Sanchez Hollow",
+        "city": "Ericberg",
+        "state": "Indiana",
+        "zip": "61023"
+    },
+    "contact": {
+        "phone": "(257)916-1891x2072",
+        "servicePhone": "800169758"
+    },
+    "birthday": "1948-05-12",
+    "ip": "189.125.107.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory who watch front music better. Fund ability heavy already issue many.\nTreat appear just knowledge various base.",
+        "bio": "Draw form new buy. Arrive scientist answer her. Billion former only put beat entire.\nWe entire method pick."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
