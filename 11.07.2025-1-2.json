@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Gonzalez",
+    "age": 77,
+    "address": {
+        "street": "Diane Ferry",
+        "city": "Tuckerstad",
+        "state": "Illinois",
+        "zip": "87320"
+    },
+    "contact": {
+        "phone": "001-888-250-1406x19330",
+        "servicePhone": "800925856"
+    },
+    "birthday": "1948-07-12",
+    "ip": "58.205.182.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience recent city among eat claim light. Success specific indicate media run option team head. Speak bit send.\nRespond political station true like return. Feeling computer blue property.",
+        "bio": "Forward possible also know toward. Here activity southern civil. Former national bed land interest.\nA of something wonder. Consider heart skin."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

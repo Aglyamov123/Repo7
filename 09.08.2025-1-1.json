@@ -1,0 +1,25 @@
+{
+    "name": "Dana Perkins",
+    "age": 113,
+    "address": {
+        "street": "John Route",
+        "city": "North Ruth",
+        "state": "New Jersey",
+        "zip": "71470"
+    },
+    "contact": {
+        "phone": "(697)322-4186",
+        "servicePhone": "800877811"
+    },
+    "birthday": "1912-04-06",
+    "ip": "81.193.59.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Particularly reach site painting behind whole. Include two forward finish office rest. Young wear light work.",
+        "bio": "High spend success fund push second memory.\nAny word so drop fish message not. Actually maybe cell sure environmental. Network indicate exist particularly."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
