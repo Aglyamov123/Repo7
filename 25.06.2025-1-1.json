@@ -1,0 +1,25 @@
+{
+    "name": "Angela Martinez",
+    "age": 39,
+    "address": {
+        "street": "Vega Wells",
+        "city": "Kimberlymouth",
+        "state": "Oregon",
+        "zip": "65794"
+    },
+    "contact": {
+        "phone": "349-332-2834x6342",
+        "servicePhone": "800232807"
+    },
+    "birthday": "1986-29-01",
+    "ip": "90.182.251.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Science husband approach major.\nBy risk floor us name evidence. Suggest own north public. Heart four treat member shake discuss deep.\nRest too yard stand fact factor table.",
+        "bio": "Before away information recently ground apply. Owner pull baby it. Social contain whom article second level."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

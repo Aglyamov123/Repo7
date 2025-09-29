@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Michael Jones III",
+    "age": 40,
+    "address": {
+        "street": "Chelsea Radial",
+        "city": "Alexandrachester",
+        "state": "New Hampshire",
+        "zip": "26551"
+    },
+    "contact": {
+        "phone": "821-944-6176",
+        "servicePhone": "800290225"
+    },
+    "birthday": "1985-27-09",
+    "ip": "161.112.239.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Line note movie foot. Seek ground act land.\nEmployee meeting building. Alone decision note drop per. Memory act similar present return myself.",
+        "bio": "Top theory positive under business. Before social memory wall should control. National however direction professor wait by yard report.\nFigure himself sing must. Resource perform staff shake so."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
