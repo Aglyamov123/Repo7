@@ -1,0 +1,25 @@
+{
+    "name": "Donna Nguyen",
+    "age": 109,
+    "address": {
+        "street": "Paul Trail",
+        "city": "East Monicaburgh",
+        "state": "Hawaii",
+        "zip": "81169"
+    },
+    "contact": {
+        "phone": "+1-461-965-3303x563",
+        "servicePhone": "800199944"
+    },
+    "birthday": "1916-02-10",
+    "ip": "190.178.26.63",
+    "foo": "bar",
+    "profile": {
+        "about": "In land discussion. World reduce goal we ability rate measure.\nPast line rather matter to low. Election join central relationship. Change someone society whose recent.",
+        "bio": "And place reason or. Whole thousand table short. Benefit compare conference hope say.\nFind culture student protect professional decision. Suffer poor some drop."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
