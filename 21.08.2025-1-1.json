@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Edwards",
+    "age": 62,
+    "address": {
+        "street": "Eugene Roads",
+        "city": "Port Michelefurt",
+        "state": "Maryland",
+        "zip": "27926"
+    },
+    "contact": {
+        "phone": "001-991-554-5538x1371",
+        "servicePhone": "800068103"
+    },
+    "birthday": "1963-06-10",
+    "ip": "28.77.30.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon thing reveal discussion offer.\nTry window institution score few moment. Nothing force environmental play heavy land.",
+        "bio": "Window college political local. During get data daughter eye apply. State bill arrive glass.\nEnd cut north until. Claim this financial."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
