@@ -1,0 +1,25 @@
+{
+    "name": "Jill Dorsey",
+    "age": 112,
+    "address": {
+        "street": "Williams Row",
+        "city": "Snowfort",
+        "state": "Ohio",
+        "zip": "96572"
+    },
+    "contact": {
+        "phone": "001-554-334-2797",
+        "servicePhone": "800824582"
+    },
+    "birthday": "1913-02-08",
+    "ip": "174.211.31.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional mean spend difference newspaper different. New rest receive decision. Involve camera maybe front even.",
+        "bio": "Respond mission situation expect charge thousand. Hear than eye all will population. Where probably find become that plan history."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

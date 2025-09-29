@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Bell",
+    "age": 91,
+    "address": {
+        "street": "David Junction",
+        "city": "West Melissaburgh",
+        "state": "Utah",
+        "zip": "44734"
+    },
+    "contact": {
+        "phone": "001-384-825-5377",
+        "servicePhone": "800268562"
+    },
+    "birthday": "1934-12-10",
+    "ip": "106.232.249.233",
+    "foo": "bar",
+    "profile": {
+        "about": "History finish sign name life. When physical character close choice work finish maybe.",
+        "bio": "Local discover career far where example. Through medical politics attorney culture raise. Game great husband development direction teach career."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
