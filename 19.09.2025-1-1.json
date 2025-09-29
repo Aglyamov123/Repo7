@@ -1,0 +1,25 @@
+{
+    "name": "Joel Edwards",
+    "age": 0,
+    "address": {
+        "street": "Tara Walks",
+        "city": "Lake Christopher",
+        "state": "New Hampshire",
+        "zip": "48979"
+    },
+    "contact": {
+        "phone": "(426)841-3726",
+        "servicePhone": "800590688"
+    },
+    "birthday": "2025-20-02",
+    "ip": "114.141.70.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge information president law minute property. Get project face compare boy wide. Push media some small could.\nMarriage catch tell friend maintain course. Beyond piece capital.",
+        "bio": "Collection management thought pressure crime we expect important. Our class ok box."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
