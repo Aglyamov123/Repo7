@@ -1,0 +1,25 @@
+{
+    "name": "Willie Zhang",
+    "age": 48,
+    "address": {
+        "street": "Patrick Parkway",
+        "city": "East Crystalberg",
+        "state": "Montana",
+        "zip": "92825"
+    },
+    "contact": {
+        "phone": "001-815-948-8945x000",
+        "servicePhone": "800775263"
+    },
+    "birthday": "1977-24-01",
+    "ip": "168.48.181.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Once decision church here move on never. Require view hot side century appear sport total.\nFuture poor contain just guess interesting toward feel.",
+        "bio": "Cold prepare work rule morning bag. Letter stop guess rather picture cover. Place little time carry mind rest."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
