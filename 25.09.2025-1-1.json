@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Rachel Moore",
+    "age": 110,
+    "address": {
+        "street": "Ali Isle",
+        "city": "Kristenshire",
+        "state": "Michigan",
+        "zip": "64994"
+    },
+    "contact": {
+        "phone": "001-246-816-9603x299",
+        "servicePhone": "800660377"
+    },
+    "birthday": "1915-14-02",
+    "ip": "119.63.34.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop issue others Democrat possible throughout level green.\nOperation model religious there thousand behavior debate allow. Home business debate.",
+        "bio": "Sort road view beautiful likely base management.\nBreak candidate be onto. Worker sometimes candidate matter. And place their whatever. Here guess fear land simply according strong."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
