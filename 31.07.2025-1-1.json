@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Miller",
+    "age": 91,
+    "address": {
+        "street": "James Walks",
+        "city": "Danafort",
+        "state": "Rhode Island",
+        "zip": "87148"
+    },
+    "contact": {
+        "phone": "(778)993-9723",
+        "servicePhone": "800523132"
+    },
+    "birthday": "1934-27-12",
+    "ip": "179.233.143.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign north step. Record find name allow oil force.\nGreat language someone education. Other economic energy soon when almost.",
+        "bio": "Quality purpose do garden star. Food let different can security.\nIncrease use usually tough. Officer skill star enjoy concern tough writer."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

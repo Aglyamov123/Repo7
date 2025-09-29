@@ -1,0 +1,25 @@
+{
+    "name": "Steve Villarreal",
+    "age": 103,
+    "address": {
+        "street": "Steve Coves",
+        "city": "Hinesfort",
+        "state": "North Carolina",
+        "zip": "07560"
+    },
+    "contact": {
+        "phone": "001-881-971-3449x47011",
+        "servicePhone": "800648136"
+    },
+    "birthday": "1922-03-01",
+    "ip": "23.93.12.119",
+    "foo": "bar",
+    "profile": {
+        "about": "School hotel husband practice share past. Dog guy cause.\nGive individual wind magazine. Social Democrat anyone common gun. White total wear affect rise say few girl.\nFish support theory above.",
+        "bio": "Police hot Congress painting such ever truth. Answer little also fish. Color together service inside of onto job."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mark Elliott",
+    "age": 43,
+    "address": {
+        "street": "Roy Junction",
+        "city": "Nathanielchester",
+        "state": "Nebraska",
+        "zip": "20825"
+    },
+    "contact": {
+        "phone": "289-851-8629x416",
+        "servicePhone": "800807190"
+    },
+    "birthday": "1982-08-03",
+    "ip": "34.34.2.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy item maybe employee rate doctor effort. Government argue carry threat. Citizen east accept reflect its.",
+        "bio": "Hit Mrs baby hot relate prepare. Bag long senior. Right bad market data."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
