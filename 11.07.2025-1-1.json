@@ -1,0 +1,25 @@
+{
+    "name": "Edward Jones",
+    "age": 43,
+    "address": {
+        "street": "Mckinney Station",
+        "city": "Barretttown",
+        "state": "Alaska",
+        "zip": "91672"
+    },
+    "contact": {
+        "phone": "+1-348-267-0651",
+        "servicePhone": "800828766"
+    },
+    "birthday": "1982-19-03",
+    "ip": "111.151.161.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree determine last maintain. Remember position story force send direction seek.",
+        "bio": "Morning follow watch great up environmental mean and. Skin protect quite at great."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
