@@ -1,0 +1,25 @@
+{
+    "name": "Yvonne Peterson MD",
+    "age": 13,
+    "address": {
+        "street": "Jamie Fork",
+        "city": "Johnsonville",
+        "state": "Florida",
+        "zip": "41918"
+    },
+    "contact": {
+        "phone": "001-514-885-5657x73967",
+        "servicePhone": "800569651"
+    },
+    "birthday": "2012-06-02",
+    "ip": "2.66.92.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Require interesting inside measure alone discuss. Direction born spring. Debate rule any consumer cut site build.",
+        "bio": "Wife no perform one investment until challenge. Knowledge necessary understand rest scientist paper beyond. Quality cover seven identify. Today affect perform draw discuss on account."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
