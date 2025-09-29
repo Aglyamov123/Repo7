@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Silva",
+    "age": 5,
+    "address": {
+        "street": "Travis Viaduct",
+        "city": "Christinestad",
+        "state": "Nevada",
+        "zip": "27390"
+    },
+    "contact": {
+        "phone": "962-502-9770",
+        "servicePhone": "800197339"
+    },
+    "birthday": "2020-31-12",
+    "ip": "204.136.190.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit position TV allow alone kitchen woman. Represent both read ability voice.\nRegion sign short firm only thousand. Push hotel stand live machine card. Girl all side family.",
+        "bio": "Visit drop subject also happy. Resource minute however young take at doctor.\nBeyond bed picture design mouth pay. News meet all. Minute career myself protect mind tonight really."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
